@@ -1,0 +1,13 @@
+[package]
+name = "panic-soundcloud"
+version = "1.0.0"
+edition = "2021"
+authors = ["Michał Sidor <public+crates@meekchopp.es>"]
+description = "Handles panic by dropping a link to the crate's homepage"
+homepage = "https://github.com/michcioperz/panic-soundcloud"
+license = "Unlicense"
+keywords = ["panic", "joke"]
+categories = ["command-line-interface"]
+
+[badges]
+maintenance = { status = "as-is" }
